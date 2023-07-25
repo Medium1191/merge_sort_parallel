@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge_sort_parallel", "merge_sort_parallel\merge_sort_parallel.vcxproj", "{EFFAE31A-5392-4EE1-B7A8-601EB509B472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Debug|x64.ActiveCfg = Debug|x64
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Debug|x64.Build.0 = Debug|x64
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Debug|x86.Build.0 = Debug|Win32
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Release|x64.ActiveCfg = Release|x64
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Release|x64.Build.0 = Release|x64
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Release|x86.ActiveCfg = Release|Win32
+		{EFFAE31A-5392-4EE1-B7A8-601EB509B472}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FBDB5D-EF52-48D3-AF3A-18A6BDF93CDD}
+	EndGlobalSection
+EndGlobal
